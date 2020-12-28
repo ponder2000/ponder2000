@@ -1,0 +1,54 @@
+name: Twitter Update
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "30 18 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Setup Python Environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
+      - name: Create venv
+        run: |
+          python -m venv myvenv
+          source myvenv/bin/activate
+
+      - name: Install Requirements
+        run: pip install -r requirements.txt
+
+      - name: Setup authkeys
+        run: |
+          export CONSUMER_KEY="hAzusCio8YiLUlHI7F7QyGi02"
+          export CONSUMER_SECRET="pvUvQ9SclEfnk9DunrvY1X6gpCbR8xtiuRimaN4YEmXcl15lLv"
+          export ACCESS_TOKEN="3066455977-iBGI6isdyQ4Zz3eHzF9MFs7W360BdVokqMqRw2t"
+          export ACCESS_TOKEN_SECRET="KLNZc2uq3FbHdgGqkqDBgFKwtK7vjvBvyyCbYEUeBuWPR"
+
+      - name: Execute Python script
+        run: |
+          python bot.py
+
+      - name: Concat static and dynamic file
+        run: |
+          cat static.md dynamic.md > README.md
+
+      - name: setup git config
+        run: |
+          git config user.name "Jay Saha"
+          git config user.email "rajamrinalsaha2000@gmail.com"
+
+      - name: commit changes
+        run: |
+          chmod +x commit.sh
+          ./commit.sh

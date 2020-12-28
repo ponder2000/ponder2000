@@ -1,0 +1,10 @@
+import os
+
+# "hAzusCio8YiLUlHI7F7QyGi02"
+API_KEY = os.getenv('CONSUMER_KEY')
+# "pvUvQ9SclEfnk9DunrvY1X6gpCbR8xtiuRimaN4YEmXcl15lLv"
+API_KEY_SECRET = os.getenv('CONSUMER_SECRET')
+# "3066455977-iBGI6isdyQ4Zz3eHzF9MFs7W360BdVokqMqRw2t"
+ACCESS_TOKEN = os.getenv('ACCESS_TOKEN')
+# "KLNZc2uq3FbHdgGqkqDBgFKwtK7vjvBvyyCbYEUeBuWPR"
+ACCESS_TOKEN_SECRET = os.getenv('ACCESS_TOKEN_SECRET')
