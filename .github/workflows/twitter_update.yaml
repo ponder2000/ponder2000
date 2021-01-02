@@ -20,10 +20,9 @@ jobs:
         with:
           python-version: 3.7
 
-      - name: Create venv
-        run: |
-          python -m venv myvenv
-          source myvenv/bin/activate
+      # - name: Create venv
+      #   run: |
+      #     source myvenv/bin/activate
 
       - name: Install Requirements
         run: pip install -r requirements.txt
@@ -34,6 +33,10 @@ jobs:
           export CONSUMER_SECRET="pvUvQ9SclEfnk9DunrvY1X6gpCbR8xtiuRimaN4YEmXcl15lLv"
           export ACCESS_TOKEN="3066455977-iBGI6isdyQ4Zz3eHzF9MFs7W360BdVokqMqRw2t"
           export ACCESS_TOKEN_SECRET="KLNZc2uq3FbHdgGqkqDBgFKwtK7vjvBvyyCbYEUeBuWPR"
+          echo CONSUMER_KEY
+          echo CONSUMER_SECRET
+          echo ACCESS_TOKEN
+          echo ACCESS_TOKEN_SECRET
 
       - name: Execute Python script
         run: |
