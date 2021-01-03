@@ -67,7 +67,7 @@ def writeDynamicMd(result, me):
     tmp = ""
     for r in result:
         tmp += r
-    content = f"\n {tmp} \n\n![](https://visitor-badge.laobi.icu/badge?page_id=ponder2000)\n"
+    content = f"\n {tmp} \n\n![](https://visitor-badge.laobi.icu/badge?page_id=ponder)\n"
     fp = open('dynamic.md', 'w')
     fp.write(content)
     fp.close()

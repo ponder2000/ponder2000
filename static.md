@@ -90,4 +90,4 @@ class Person(Human):
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Fun stuff with 🐍</h1>
 <h2 align="left" style = "font-family:courier,arial,helvetica;">My recent twitter followers on 🐦</h2>
 
-<img src='https://tenor.com/view/not-helpful-its-not-helping-no-help-at-all-worthless-no-use-gif-14788512' align='right'>
+<img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
