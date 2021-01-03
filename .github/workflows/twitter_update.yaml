@@ -29,14 +29,7 @@ jobs:
 
       - name: Setup authkeys
         run: |
-          export CONSUMER_KEY="hAzusCio8YiLUlHI7F7QyGi02"
-          export CONSUMER_SECRET="pvUvQ9SclEfnk9DunrvY1X6gpCbR8xtiuRimaN4YEmXcl15lLv"
-          export ACCESS_TOKEN="3066455977-iBGI6isdyQ4Zz3eHzF9MFs7W360BdVokqMqRw2t"
-          export ACCESS_TOKEN_SECRET="KLNZc2uq3FbHdgGqkqDBgFKwtK7vjvBvyyCbYEUeBuWPR"
-          echo CONSUMER_KEY
-          echo CONSUMER_SECRET
-          echo ACCESS_TOKEN
-          echo ACCESS_TOKEN_SECRET
+          echo 'API_KEY, API_KEY_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET = "hAzusCio8YiLUlHI7F7QyGi02", "pvUvQ9SclEfnk9DunrvY1X6gpCbR8xtiuRimaN4YEmXcl15lLv", "3066455977-iBGI6isdyQ4Zz3eHzF9MFs7W360BdVokqMqRw2t", "KLNZc2uq3FbHdgGqkqDBgFKwtK7vjvBvyyCbYEUeBuWPR"' > key.py
 
       - name: Execute Python script
         run: |
@@ -45,6 +38,10 @@ jobs:
       - name: Concat static and dynamic file
         run: |
           cat static.md dynamic.md > README.md
+
+      - name: Remove key file
+        run: |
+          rm key.py
 
       - name: setup git config
         run: |
