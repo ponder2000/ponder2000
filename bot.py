@@ -15,10 +15,6 @@ class TweeterBot:
         access_token = key.ACCESS_TOKEN
         access_token_secret = key.ACCESS_TOKEN_SECRET
 
-        print(key.ACCESS_TOKEN)
-        print(access_token)
-        print(access_token_secret)
-
         auth = tw.OAuthHandler(api_key, api_secret)
         auth.set_access_token(access_token, access_token_secret)
         self.api = tw.API(auth, wait_on_rate_limit=True,
@@ -71,7 +67,7 @@ def writeDynamicMd(result, me):
     tmp = ""
     for r in result:
         tmp += r
-    content = f"\n## Fun stuff with python 😁 🐦 \n ### Find me on twitter as \n {me} \n ### My recent twitter followers \n {tmp} \n\n![](https://visitor-badge.laobi.icu/badge?page_id=ponder2000)\n![](https://img.shields.io/github/followers/ponder2000?label=Followers&style=social)"
+    content = f"\n {tmp} \n\n![](https://visitor-badge.laobi.icu/badge?page_id=ponder2000)\n"
     fp = open('dynamic.md', 'w')
     fp.write(content)
     fp.close()

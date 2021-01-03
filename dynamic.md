@@ -1,9 +1,4 @@
 
-## Fun stuff with python 😁 🐦 
- ### Find me on twitter as 
- ![](http://pbs.twimg.com/profile_images/1342377555756609536/H62Er1qs_normal.jpg) [@chotathanos](https://twitter.com/chotathanos)<br> 
- ### My recent twitter followers 
  ![](http://pbs.twimg.com/profile_images/1311731479454646272/9XcppL4p_normal.jpg) [@atsigncompany](https://twitter.com/atsigncompany)<br>![](http://pbs.twimg.com/profile_images/1344924494423461888/QojxKFLu_normal.jpg) [@Shubham70906907](https://twitter.com/Shubham70906907)<br>![](http://pbs.twimg.com/profile_images/1265269578327887877/jZ0ncnMD_normal.jpg) [@Vaibpwar](https://twitter.com/Vaibpwar)<br>![](http://pbs.twimg.com/profile_images/1336626855399440384/2pgFT6MM_normal.jpg) [@SeemaWaghmare7](https://twitter.com/SeemaWaghmare7)<br>![](http://pbs.twimg.com/profile_images/1270808573136822272/ErTPULYY_normal.png) [@_javelynn_](https://twitter.com/_javelynn_)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder2000)
-![](https://img.shields.io/github/followers/ponder2000?label=Followers&style=social)
