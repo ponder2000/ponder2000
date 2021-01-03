@@ -1,4 +1,4 @@
-## Namashkar 🙏🏻 <br>Nice to see you 😁
+## _Konnichiwa_ 🙏🏻 <br>Nice to see you 😁
 
 - 👨🏻‍💻 I’m currently working on .dart💙 & .py 🐍
 - 🤝 I’m looking to collaborate on flutter and DL projects
@@ -51,15 +51,12 @@ class Person(Human):
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ponder2000&theme=radical0" alt="WakeTime Week Stats" />
 </a> -->
 <br><br>
-## Fun stuff with python 😁 🐦
 
-### Find me on twitter as
-
-![](http://pbs.twimg.com/profile_images/1341869781989801984/Q7E-WIEp_normal.jpg) [@chotathanos](https://twitter.com/chotathanos)<br>
-
-### My recent twitter followers
-
-![](http://pbs.twimg.com/profile_images/1270808573136822272/ErTPULYY_normal.png) [@_javelynn_](https://twitter.com/_javelynn_)<br>![](http://pbs.twimg.com/profile_images/1083283401145118720/cMsSDSEi_normal.jpg) [@mia9059](https://twitter.com/mia9059)<br>![](http://pbs.twimg.com/profile_images/1289175853692153858/9Grbc5uo_normal.jpg) [@PranadWaghmare1](https://twitter.com/PranadWaghmare1)<br>![](http://pbs.twimg.com/profile_images/1255385575525359617/s3yPrsG2_normal.jpg) [@Virajg_007](https://twitter.com/Virajg_007)<br>![](http://pbs.twimg.com/profile_images/1121036456930181122/m_WpiNk-_normal.png) [@advaneo](https://twitter.com/advaneo)<br>
+## Fun stuff with python 😁 🐦 
+ ### Find me on twitter as 
+ ![](http://pbs.twimg.com/profile_images/1342377555756609536/H62Er1qs_normal.jpg) [@chotathanos](https://twitter.com/chotathanos)<br> 
+ ### My recent twitter followers 
+ ![](http://pbs.twimg.com/profile_images/1311731479454646272/9XcppL4p_normal.jpg) [@atsigncompany](https://twitter.com/atsigncompany)<br>![](http://pbs.twimg.com/profile_images/1344924494423461888/QojxKFLu_normal.jpg) [@Shubham70906907](https://twitter.com/Shubham70906907)<br>![](http://pbs.twimg.com/profile_images/1265269578327887877/jZ0ncnMD_normal.jpg) [@Vaibpwar](https://twitter.com/Vaibpwar)<br>![](http://pbs.twimg.com/profile_images/1336626855399440384/2pgFT6MM_normal.jpg) [@SeemaWaghmare7](https://twitter.com/SeemaWaghmare7)<br>![](http://pbs.twimg.com/profile_images/1270808573136822272/ErTPULYY_normal.png) [@_javelynn_](https://twitter.com/_javelynn_)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder2000)
 ![](https://img.shields.io/github/followers/ponder2000?label=Followers&style=social)
