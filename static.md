@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Konnichiwa 😁</h1>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="" height="280" />
 <div style = "font-family:courier,arial,helvetica;">
 
 - 👨🏻‍💻 I’m currently working on .dart💙 & .py 🐍
@@ -18,13 +18,8 @@ class Person(Human):
         self.pronounce = ["he", "him"]
         self.age = 20
         self.isStudent = True
-        self.knownLan = ["Python", "Dart", "C", "C++"]
+        self.knownLan = ["py", "dart", "c", "cpp"]
         self.intrest = ["Flutter", "GANs", "DSA"]
-
-    def openToWork(self, description):
-        if description.contains(self.knownLan + self.intrest):
-            return True
-        return False
 ```
 
 </div>
@@ -88,6 +83,6 @@ class Person(Human):
 </p>
 
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Fun stuff with 🐍</h1>
-<h2 align="left" style = "font-family:courier,arial,helvetica;">My recent twitter followers on 🐦</h2>
+<h2 align="left" style = "font-family:courier,arial,helvetica;">My recent followers on 🐦</h2>
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
