@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Konnichiwa 😁</h1>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="" height="280" />
 <div style = "font-family:courier,arial,helvetica;">
 
 - 👨🏻‍💻 I’m currently working on .dart💙 & .py 🐍
@@ -18,13 +18,8 @@ class Person(Human):
         self.pronounce = ["he", "him"]
         self.age = 20
         self.isStudent = True
-        self.knownLan = ["Python", "Dart", "C", "C++"]
+        self.knownLan = ["py", "dart", "c", "cpp"]
         self.intrest = ["Flutter", "GANs", "DSA"]
-
-    def openToWork(self, description):
-        if description.contains(self.knownLan + self.intrest):
-            return True
-        return False
 ```
 
 </div>
@@ -88,10 +83,10 @@ class Person(Human):
 </p>
 
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Fun stuff with 🐍</h1>
-<h2 align="left" style = "font-family:courier,arial,helvetica;">My recent twitter followers on 🐦</h2>
+<h2 align="left" style = "font-family:courier,arial,helvetica;">My recent followers on 🐦</h2>
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1311731479454646272/9XcppL4p_normal.jpg) [@atsigncompany](https://twitter.com/atsigncompany)<br>![](http://pbs.twimg.com/profile_images/1344924494423461888/QojxKFLu_normal.jpg) [@Shubham70906907](https://twitter.com/Shubham70906907)<br>![](http://pbs.twimg.com/profile_images/1265269578327887877/jZ0ncnMD_normal.jpg) [@Vaibpwar](https://twitter.com/Vaibpwar)<br>![](http://pbs.twimg.com/profile_images/1336626855399440384/2pgFT6MM_normal.jpg) [@SeemaWaghmare7](https://twitter.com/SeemaWaghmare7)<br>![](http://pbs.twimg.com/profile_images/1270808573136822272/ErTPULYY_normal.png) [@_javelynn_](https://twitter.com/_javelynn_)<br> 
+ ![](http://pbs.twimg.com/profile_images/1311731479454646272/9XcppL4p_normal.jpg) [@atsigncompany](https://twitter.com/atsigncompany)<br>![](http://pbs.twimg.com/profile_images/1344924494423461888/QojxKFLu_normal.jpg) [@Shubham70906907](https://twitter.com/Shubham70906907)<br>![](http://pbs.twimg.com/profile_images/1265269578327887877/jZ0ncnMD_normal.jpg) [@Vaibpwar](https://twitter.com/Vaibpwar)<br>![](http://pbs.twimg.com/profile_images/1336626855399440384/2pgFT6MM_normal.jpg) [@SeemaWaghmare7](https://twitter.com/SeemaWaghmare7)<br>![](http://pbs.twimg.com/profile_images/1083283401145118720/cMsSDSEi_normal.jpg) [@mia9059](https://twitter.com/mia9059)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
