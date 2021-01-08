@@ -87,6 +87,6 @@ class Person(Human):
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1184050191034224642/_9CBylBT_normal.jpg) [@sk4rn](https://twitter.com/sk4rn)<br>![](http://pbs.twimg.com/profile_images/1148839043108466689/WpZJHBuY_normal.jpg) [@londhe_kapil](https://twitter.com/londhe_kapil)<br>![](http://pbs.twimg.com/profile_images/1271421868482781184/DMVwdS2V_normal.jpg) [@avirat20](https://twitter.com/avirat20)<br>![](http://pbs.twimg.com/profile_images/1338773416560750592/9_JQaKHt_normal.jpg) [@FI_imagineer](https://twitter.com/FI_imagineer)<br>![](http://pbs.twimg.com/profile_images/1276465720658923520/X-kQbFMI_normal.jpg) [@roma_paii](https://twitter.com/roma_paii)<br> 
+ ![](http://pbs.twimg.com/profile_images/1339631512443076610/REbSO3vz_normal.jpg) [@HGomezjm3](https://twitter.com/HGomezjm3)<br>![](http://pbs.twimg.com/profile_images/1261517266614706176/EEGWCs9y_normal.jpg) [@KashikarSharvil](https://twitter.com/KashikarSharvil)<br>![](http://pbs.twimg.com/profile_images/1304370664183230464/i-aEsGGs_normal.jpg) [@Shreyastaklikar](https://twitter.com/Shreyastaklikar)<br>![](http://pbs.twimg.com/profile_images/1201916326807326722/49f03o4A_normal.jpg) [@_techchronicle](https://twitter.com/_techchronicle)<br>![](http://pbs.twimg.com/profile_images/1304704270575509504/mKQG-X_c_normal.jpg) [@SjoukjeZaal](https://twitter.com/SjoukjeZaal)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
