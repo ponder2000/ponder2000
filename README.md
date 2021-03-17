@@ -87,6 +87,6 @@ class Person(Human):
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1197874997299007488/Dd3KuTzf_normal.jpg) [@CoderSamad](https://twitter.com/CoderSamad)<br>![](http://pbs.twimg.com/profile_images/1367231278257479686/CCRwO7fP_normal.jpg) [@gabrimatic](https://twitter.com/gabrimatic)<br>![](http://pbs.twimg.com/profile_images/1338265630928199681/O0xCuxir_normal.jpg) [@Solo_daemon](https://twitter.com/Solo_daemon)<br>![](http://pbs.twimg.com/profile_images/719870576110800896/kW3OJpQD_normal.jpg) [@kudzaisd](https://twitter.com/kudzaisd)<br>![](http://pbs.twimg.com/profile_images/1344493588952977408/iODQwtNe_normal.jpg) [@__AnkushSingh__](https://twitter.com/__AnkushSingh__)<br> 
+ ![](http://pbs.twimg.com/profile_images/1355114005442953223/XhbsMf7V_normal.jpg) [@BhiwreRahul](https://twitter.com/BhiwreRahul)<br>![](http://pbs.twimg.com/profile_images/1053907263692238848/wAm8FBcB_normal.jpg) [@TheFiveDayStart](https://twitter.com/TheFiveDayStart)<br>![](http://pbs.twimg.com/profile_images/1318659335350833156/7QxDheKi_normal.jpg) [@wealthy_facts](https://twitter.com/wealthy_facts)<br>![](http://pbs.twimg.com/profile_images/1197874997299007488/Dd3KuTzf_normal.jpg) [@CoderSamad](https://twitter.com/CoderSamad)<br>![](http://pbs.twimg.com/profile_images/1367231278257479686/CCRwO7fP_normal.jpg) [@gabrimatic](https://twitter.com/gabrimatic)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
