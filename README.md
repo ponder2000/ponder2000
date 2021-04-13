@@ -87,6 +87,6 @@ class Person(Human):
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1367106055763865601/11uJIheM_normal.jpg) [@wafijoe](https://twitter.com/wafijoe)<br>![](http://pbs.twimg.com/profile_images/1380550027878207491/OuINhG0O_normal.jpg) [@Jxpprx](https://twitter.com/Jxpprx)<br>![](http://pbs.twimg.com/profile_images/1370693224927399939/qb--uStO_normal.jpg) [@NirajPa14736112](https://twitter.com/NirajPa14736112)<br>![](http://pbs.twimg.com/profile_images/1339439018329604096/EFb11ADp_normal.jpg) [@FionaRagua](https://twitter.com/FionaRagua)<br>![](http://pbs.twimg.com/profile_images/1305862597451841538/9L27mNqn_normal.jpg) [@pritkalariya](https://twitter.com/pritkalariya)<br> 
+ ![](http://pbs.twimg.com/profile_images/1379484487759790083/p2KhMn2Q_normal.jpg) [@nikhilm_2001](https://twitter.com/nikhilm_2001)<br>![](http://pbs.twimg.com/profile_images/1379199279827349508/ZE7rPKW5_normal.jpg) [@Vaibhav586](https://twitter.com/Vaibhav586)<br>![](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png) [@Pratiksha0003](https://twitter.com/Pratiksha0003)<br>![](http://pbs.twimg.com/profile_images/1380550027878207491/OuINhG0O_normal.jpg) [@Jxpprx](https://twitter.com/Jxpprx)<br>![](http://pbs.twimg.com/profile_images/1370693224927399939/qb--uStO_normal.jpg) [@NirajPa14736112](https://twitter.com/NirajPa14736112)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
