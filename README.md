@@ -87,6 +87,6 @@ class Person(Human):
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1392006660764303363/Yclmg17n_normal.jpg) [@TanushkaVihan](https://twitter.com/TanushkaVihan)<br>![](http://pbs.twimg.com/profile_images/1390550857104510976/_XIC_ROy_normal.jpg) [@Kate028_](https://twitter.com/Kate028_)<br>![](http://pbs.twimg.com/profile_images/1363921894806859777/Jcw_3-dM_normal.jpg) [@ios_dev_alb](https://twitter.com/ios_dev_alb)<br>![](http://pbs.twimg.com/profile_images/1325408017194561537/4tIww-rO_normal.jpg) [@ozgun9292](https://twitter.com/ozgun9292)<br>![](http://pbs.twimg.com/profile_images/1365426649723006976/43PxXtlj_normal.jpg) [@ShonenDaily](https://twitter.com/ShonenDaily)<br> 
+ ![](http://pbs.twimg.com/profile_images/1382358391616544773/Hocu50uu_normal.jpg) [@harshs03](https://twitter.com/harshs03)<br>![](http://pbs.twimg.com/profile_images/1369241947261444099/OjL1GxmW_normal.jpg) [@baesicallyali](https://twitter.com/baesicallyali)<br>![](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png) [@TusharC68351827](https://twitter.com/TusharC68351827)<br>![](http://pbs.twimg.com/profile_images/1389258560161214468/8yIdz8rZ_normal.jpg) [@ritujha89611412](https://twitter.com/ritujha89611412)<br>![](http://pbs.twimg.com/profile_images/1390938992720310272/VWgp3tDo_normal.jpg) [@business_birdie](https://twitter.com/business_birdie)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
