@@ -87,6 +87,6 @@ class Person(Human):
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1382358391616544773/Hocu50uu_normal.jpg) [@harshs03](https://twitter.com/harshs03)<br>![](http://pbs.twimg.com/profile_images/1369241947261444099/OjL1GxmW_normal.jpg) [@baesicallyali](https://twitter.com/baesicallyali)<br>![](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png) [@TusharC68351827](https://twitter.com/TusharC68351827)<br>![](http://pbs.twimg.com/profile_images/1389258560161214468/8yIdz8rZ_normal.jpg) [@ritujha89611412](https://twitter.com/ritujha89611412)<br>![](http://pbs.twimg.com/profile_images/1390938992720310272/VWgp3tDo_normal.jpg) [@business_birdie](https://twitter.com/business_birdie)<br> 
+ ![](http://pbs.twimg.com/profile_images/1391563587043270660/ezDwPWyK_normal.jpg) [@notweebkun](https://twitter.com/notweebkun)<br>![](http://pbs.twimg.com/profile_images/1389292666530246662/HppNIKWL_normal.jpg) [@ChhajedViraj](https://twitter.com/ChhajedViraj)<br>![](http://pbs.twimg.com/profile_images/1378406548242714624/TBqGHFH6_normal.jpg) [@AkhilaArsid](https://twitter.com/AkhilaArsid)<br>![](http://pbs.twimg.com/profile_images/1229504761428357120/9HQQPOgs_normal.jpg) [@nightwolfdev](https://twitter.com/nightwolfdev)<br>![](http://pbs.twimg.com/profile_images/1382358391616544773/Hocu50uu_normal.jpg) [@harshs03](https://twitter.com/harshs03)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
