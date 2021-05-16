@@ -87,6 +87,6 @@ class Person(Human):
 
 <img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1214225828076281856/vkxIRQAV_normal.jpg) [@SACHINGOVINDRA9](https://twitter.com/SACHINGOVINDRA9)<br>![](http://pbs.twimg.com/profile_images/1367915183398526978/grqxJ5Ev_normal.jpg) [@Archishman_Seng](https://twitter.com/Archishman_Seng)<br>![](http://pbs.twimg.com/profile_images/1380389801837228033/e-w2-Nvr_normal.jpg) [@DoushalF](https://twitter.com/DoushalF)<br>![](http://pbs.twimg.com/profile_images/1342815536451702784/a6HCHhb1_normal.jpg) [@srudnya_tompe](https://twitter.com/srudnya_tompe)<br>![](http://pbs.twimg.com/profile_images/1384815118072958978/emuivkQd_normal.jpg) [@sumitpande_](https://twitter.com/sumitpande_)<br> 
+ ![](http://pbs.twimg.com/profile_images/1345773701896130561/0-jnsT-z_normal.jpg) [@rohisahmmed](https://twitter.com/rohisahmmed)<br>![](http://pbs.twimg.com/profile_images/1357300572601286656/FuosOMJ1_normal.jpg) [@RohanKochhar](https://twitter.com/RohanKochhar)<br>![](http://pbs.twimg.com/profile_images/1154454773808209920/fnNQXeA9_normal.jpg) [@blemo_onoriode](https://twitter.com/blemo_onoriode)<br>![](http://pbs.twimg.com/profile_images/1375774263920189440/xBS4B_1I_normal.jpg) [@MatveyNikonorov](https://twitter.com/MatveyNikonorov)<br>![](http://pbs.twimg.com/profile_images/1214225828076281856/vkxIRQAV_normal.jpg) [@SACHINGOVINDRA9](https://twitter.com/SACHINGOVINDRA9)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
