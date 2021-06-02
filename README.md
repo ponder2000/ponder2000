@@ -43,12 +43,14 @@ class Person(Human):
 
 <div align="center">
 <a href="https://github.com/ponder2000/ponder2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponder2000&hide= jupyter+notebook&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponder2000&hide= jupyter+notebook&theme=radical&layout=compact" alt="Top Languages" />
 </a>
+
 <a href="https://github.com/ponder2000/ponder2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ponder2000&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Jay's Github Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ponder2000&theme=dark" alt="Jay's Github Stats" />
 </a>
 <br>
+
 <a href="https://github.com/ponder2000/PonderGram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ponder2000&repo=PonderGram&theme=radical" alt = "ponder2000/PonderGram" />
 </a>
@@ -74,7 +76,7 @@ class Person(Human):
   <a href="https://twitter.com/chotathanos" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/jay-saha-38b561147/" target="_blank">
+  <a href="https://www.linkedin.com/in/jay-saha/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/jay_saha_/" target="_blank">
@@ -85,8 +87,9 @@ class Person(Human):
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Fun stuff with 🐍</h1>
 <h2 align="left" style = "font-family:courier,arial,helvetica;">My recent followers on 🐦</h2>
 
-<img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" align="right">
 
- ![](http://pbs.twimg.com/profile_images/1343928412285644801/c1CTeGQq_normal.jpg) [@bk_973](https://twitter.com/bk_973)<br>![](http://pbs.twimg.com/profile_images/1387846087159988232/NqLVvWWY_normal.jpg) [@_pyry_](https://twitter.com/_pyry_)<br>![](http://pbs.twimg.com/profile_images/1395295355814744064/Gjy0OmTr_normal.jpg) [@seyitios](https://twitter.com/seyitios)<br>![](http://pbs.twimg.com/profile_images/1373167801892958210/6H7DY0lT_normal.jpg) [@realtushar100](https://twitter.com/realtushar100)<br>![](http://pbs.twimg.com/profile_images/1394080649233973257/ZYrvoBCt_normal.jpg) [@EllaOfLagos01](https://twitter.com/EllaOfLagos01)<br> 
+
+ ![](http://pbs.twimg.com/profile_images/1303287316954349571/jgnUZiw-_normal.jpg) [@gswaraj_1508](https://twitter.com/gswaraj_1508)<br>![](http://pbs.twimg.com/profile_images/1398502427884548101/14Oo4SFA_normal.jpg) [@MohitCh51227328](https://twitter.com/MohitCh51227328)<br>![](http://pbs.twimg.com/profile_images/1400172238029066245/x-vOwdmn_normal.jpg) [@bk_973](https://twitter.com/bk_973)<br>![](http://pbs.twimg.com/profile_images/1387846087159988232/NqLVvWWY_normal.jpg) [@_pyry_](https://twitter.com/_pyry_)<br>![](http://pbs.twimg.com/profile_images/1395295355814744064/Gjy0OmTr_normal.jpg) [@swiftoverfloor](https://twitter.com/swiftoverfloor)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
