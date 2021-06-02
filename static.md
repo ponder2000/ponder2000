@@ -43,12 +43,14 @@ class Person(Human):
 
 <div align="center">
 <a href="https://github.com/ponder2000/ponder2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponder2000&hide= jupyter+notebook&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponder2000&hide= jupyter+notebook&theme=radical&layout=compact" alt="Top Languages" />
 </a>
+
 <a href="https://github.com/ponder2000/ponder2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ponder2000&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Jay's Github Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ponder2000&theme=dark" alt="Jay's Github Stats" />
 </a>
 <br>
+
 <a href="https://github.com/ponder2000/PonderGram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ponder2000&repo=PonderGram&theme=radical" alt = "ponder2000/PonderGram" />
 </a>
@@ -74,7 +76,7 @@ class Person(Human):
   <a href="https://twitter.com/chotathanos" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/jay-saha-38b561147/" target="_blank">
+  <a href="https://www.linkedin.com/in/jay-saha/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/jay_saha_/" target="_blank">
@@ -85,4 +87,5 @@ class Person(Human):
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Fun stuff with 🐍</h1>
 <h2 align="left" style = "font-family:courier,arial,helvetica;">My recent followers on 🐦</h2>
 
-<img src="https://media.giphy.com/media/xT9IggDCSIWH5jcOdy/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" align="right">
+
