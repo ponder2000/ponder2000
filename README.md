@@ -90,6 +90,6 @@ class Person(Human):
 <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" align="right">
 
 
- ![](http://pbs.twimg.com/profile_images/1377327594438225920/GF6yW3cz_normal.jpg) [@shirsh94](https://twitter.com/shirsh94)<br>![](http://pbs.twimg.com/profile_images/1451015504777338884/c3_u2lzy_normal.jpg) [@kamakhya_saikia](https://twitter.com/kamakhya_saikia)<br>![](http://pbs.twimg.com/profile_images/1445987263716884480/4KUUIggn_normal.jpg) [@Sumit4482](https://twitter.com/Sumit4482)<br>![](http://pbs.twimg.com/profile_images/1451771052883787776/95lhat6c_normal.jpg) [@itsMH_11](https://twitter.com/itsMH_11)<br>![](http://pbs.twimg.com/profile_images/1486372798935482369/y7lCMXso_normal.jpg) [@simran_jain_](https://twitter.com/simran_jain_)<br> 
+ ![](http://pbs.twimg.com/profile_images/1234615240249270272/C2DmpV47_normal.jpg) [@adzsroka](https://twitter.com/adzsroka)<br>![](http://pbs.twimg.com/profile_images/1377327594438225920/GF6yW3cz_normal.jpg) [@shirsh94](https://twitter.com/shirsh94)<br>![](http://pbs.twimg.com/profile_images/1451015504777338884/c3_u2lzy_normal.jpg) [@kamakhya_saikia](https://twitter.com/kamakhya_saikia)<br>![](http://pbs.twimg.com/profile_images/1445987263716884480/4KUUIggn_normal.jpg) [@Sumit4482](https://twitter.com/Sumit4482)<br>![](http://pbs.twimg.com/profile_images/1451771052883787776/95lhat6c_normal.jpg) [@itsMH_11](https://twitter.com/itsMH_11)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
