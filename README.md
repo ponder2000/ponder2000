@@ -90,6 +90,6 @@ class Person(Human):
 <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" align="right">
 
 
- ![](http://pbs.twimg.com/profile_images/870328738554101762/bI8LpiK6_normal.jpg) [@tapash_21](https://twitter.com/tapash_21)<br>![](http://pbs.twimg.com/profile_images/1513942344973762563/o-_uF52t_normal.jpg) [@Deve_BlackHeart](https://twitter.com/Deve_BlackHeart)<br>![](http://pbs.twimg.com/profile_images/1407329586522775562/7ywdSAfh_normal.jpg) [@TaniaSi33921876](https://twitter.com/TaniaSi33921876)<br>![](http://pbs.twimg.com/profile_images/1510132808848932864/ikmxMPwk_normal.jpg) [@PushpRa68815749](https://twitter.com/PushpRa68815749)<br>![](http://pbs.twimg.com/profile_images/1480750232359116802/63u4AziI_normal.jpg) [@SinghSedu](https://twitter.com/SinghSedu)<br> 
+ ![](http://pbs.twimg.com/profile_images/870328738554101762/bI8LpiK6_normal.jpg) [@tapash_21](https://twitter.com/tapash_21)<br>![](http://pbs.twimg.com/profile_images/1514115862755610624/C00By2gm_normal.jpg) [@Deve_BlackHeart](https://twitter.com/Deve_BlackHeart)<br>![](http://pbs.twimg.com/profile_images/1407329586522775562/7ywdSAfh_normal.jpg) [@TaniaSi33921876](https://twitter.com/TaniaSi33921876)<br>![](http://pbs.twimg.com/profile_images/1510132808848932864/ikmxMPwk_normal.jpg) [@PushpRa68815749](https://twitter.com/PushpRa68815749)<br>![](http://pbs.twimg.com/profile_images/1480750232359116802/63u4AziI_normal.jpg) [@SinghSedu](https://twitter.com/SinghSedu)<br> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ponder)
