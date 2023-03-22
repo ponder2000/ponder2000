@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="" height="280" />
 <div style = "font-family:courier,arial,helvetica;">
 
-- 👨🏻‍💻 I’m currently working on .dart💙 & .py 🐍
+- 👨🏻‍💻 I’m currently working on .dart💙 , .py 🐍 and .go 🐹
 - 🤝 I’m looking to collaborate on flutter and DL projects
 - ⚡ Fun Fact: I don't mind if you watch anime in dubbed
 
@@ -16,10 +16,10 @@ class Person(Human):
     def __init__(self):
         self.name = "Jay Saha"
         self.pronounce = ["he", "him"]
-        self.age = 20
-        self.isStudent = True
-        self.knownLan = ["py", "dart", "c", "cpp"]
-        self.intrest = ["Flutter", "GANs", "DSA"]
+        self.age = 22
+        self.isStudent = False
+        self.knownLan = ["py", "dart", "go"]
+        self.intrest = ["Flutter", "AI", "DSA", "Backend"]
 ```
 
 </div>
