@@ -43,7 +43,7 @@ class Person(Human):
 
 <div align="center">
 <a href="https://github.com/ponder2000/ponder2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponder2000&hide= jupyter+notebook&theme=radical&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponder2000&hide=jupyter+notebook&theme=radical&layout=compact" alt="Top Languages" />
 </a>
 
 <a href="https://github.com/ponder2000/ponder2000">
@@ -85,7 +85,7 @@ class Person(Human):
 </p>
 
 <h1 align="center" style = "font-family:courier,arial,helvetica;">Fun stuff with 🐍</h1>
-<h2 align="left" style = "font-family:courier,arial,helvetica;">My recent followers on 🐦</h2>
+<h2 align="left" style = "font-family:courier,arial,helvetica;">My recent followers on 🐦 (The auto update has been stoped due to change in APIs of twitter! Sad life 😮‍💨)</h2>
 
 <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" align="right">
 
