@@ -4,6 +4,8 @@ Backend engineer focused on **databases**, **concurrency**, and **systems progra
 
 I enjoy working close to the metal: serial protocols, time-series pipelines, partitioning multi-TB Postgres databases, and writing tight concurrent Go.
 
+I also work on signal processing project but through vibe coding
+
 ---
 
 ### Tools & Technologies
@@ -13,3 +15,5 @@ I enjoy working close to the metal: serial protocols, time-series pipelines, par
 **Intermediate** — Flutter, Python, Redis, Kafka/NATS/MQTT
 
 **Learning** — Zig, Kubernetes
+
+**Vibing** - Signal Processing, Machine Learning, Deep Learning
